@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 Rails2章
+# sample_app
